@@ -1,7 +1,7 @@
 import streamlit as st
 from llama_index import GPTSimpleVectorIndex
 import os
-import config
+#import config
 
 @st.cache_resource
 def load_index():
