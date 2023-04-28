@@ -29,7 +29,7 @@ def main():
 
     # use the index based on the selected data
     #if data == 'All About Shakespeare':
-    #   st.image('/content/data/Shakespeare.png')
+    #   st.image('Shakespeare.png')
     #  index = index_document
     
     if data == '.txt file (My favorite fruits)':
